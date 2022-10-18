@@ -1,0 +1,17 @@
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\NCAPA.WIN.exe.config
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\NCAPA.WIN.exe
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\NCAPA.WIN.pdb
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\Ncapa.Entidad.dll
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\Ncapa.Negocio.dll
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\Ncapa.Datos.dll
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\Ncapa.Entidad.pdb
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\Ncapa.Negocio.pdb
+D:\VisualEstudio\Ncapas\NCAPA.WIN\bin\Debug\Ncapa.Datos.pdb
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.csprojResolveAssemblyReference.cache
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.Form1.resources
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.Properties.Resources.resources
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.csproj.GenerateResource.Cache
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.exe
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.pdb
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.FrmPrincipal.resources
+D:\VisualEstudio\Ncapas\NCAPA.WIN\obj\Debug\NCAPA.WIN.frmBuscador.resources

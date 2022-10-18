@@ -1,0 +1,9 @@
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\bin\Debug\Ncapa.Negocio.dll
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\bin\Debug\Ncapa.Negocio.pdb
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\bin\Debug\Ncapa.Datos.dll
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\bin\Debug\Ncapa.Entidad.dll
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\bin\Debug\Ncapa.Datos.pdb
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\bin\Debug\Ncapa.Entidad.pdb
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\obj\Debug\Ncapa.Negocio.csprojResolveAssemblyReference.cache
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\obj\Debug\Ncapa.Negocio.dll
+D:\VisualEstudio\Ncapas\Ncapa.Negocio\obj\Debug\Ncapa.Negocio.pdb

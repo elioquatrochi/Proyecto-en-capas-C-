@@ -1,0 +1,7 @@
+D:\VisualEstudio\Ncapas\Ncapa.Datos\bin\Debug\Ncapa.Datos.dll
+D:\VisualEstudio\Ncapas\Ncapa.Datos\bin\Debug\Ncapa.Datos.pdb
+D:\VisualEstudio\Ncapas\Ncapa.Datos\bin\Debug\Ncapa.Entidad.dll
+D:\VisualEstudio\Ncapas\Ncapa.Datos\bin\Debug\Ncapa.Entidad.pdb
+D:\VisualEstudio\Ncapas\Ncapa.Datos\obj\Debug\Ncapa.Datos.csprojResolveAssemblyReference.cache
+D:\VisualEstudio\Ncapas\Ncapa.Datos\obj\Debug\Ncapa.Datos.dll
+D:\VisualEstudio\Ncapas\Ncapa.Datos\obj\Debug\Ncapa.Datos.pdb
